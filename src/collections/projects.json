@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "MiKOLO PC Shop",
+		"description": "Site de gestion de spectacle, vente de billet",
+		"image": "/assets/images/projects/mikolo.png",
+		"url": "#"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "H-Beauty",
+		"description": "Site de beauté complet avec réservation, prise de rendez-vous et statistiques",
+		"image": "/assets/images/projects/hbeauty.png",
+		"url": "#"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Tsimoka",
+		"description": "Gestion de culture et de transformation d'épices et d'huiles essentielles, jusqu'à l'exportation et vente ainsi que la traçabilité",
+		"image": "/assets/images/projects/tsimoka.png",
+		"url": "#"
 	}
 ]
